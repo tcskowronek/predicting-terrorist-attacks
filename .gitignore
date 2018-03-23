@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Mac files
+.DS_Store
+
+# Data directory
+/data/
