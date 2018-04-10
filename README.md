@@ -15,3 +15,5 @@ The complete source for this project is available below.  The source data for th
 
 * [01 - Data Preprocessing](src/01-Data-Preprocessing.ipynb)
 * [02 - Exploratory Data Analysis](src/02-Exploratory-Data-Analysis.ipynb)
+* [03 - Weapon Classification](src/03-Weapon-Classification.ipynb)
+* [04 - Perpetrator Classification](src/04-Perpetrator-Classification.ipynb)
