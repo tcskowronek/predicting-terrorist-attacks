@@ -17,3 +17,4 @@ The complete source for this project is available below.  The source data for th
 * [02 - Exploratory Data Analysis](src/02-Exploratory-Data-Analysis.ipynb)
 * [03 - Weapon Classification](src/03-Weapon-Classification.ipynb)
 * [04 - Perpetrator Classification](src/04-Perpetrator-Classification.ipynb)
+* [05 - Time Series Prediction](src/05-Time-Series-Prediction.ipynb)
