@@ -28,4 +28,6 @@ The complete source for this project is available below.  The source data for th
 
 
 ## Presentation
-* TBD
+* [Slide Deck](presentation/TSkowronek_MSDS696_Presentation.pdf)
+* [Narrated Presentation](https://youtu.be/XXX):
+[![Narrated Presentation](img/video-presentation.png)](https://youtu.be/XXX)
